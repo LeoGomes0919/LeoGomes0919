@@ -9,6 +9,6 @@ Apaixonado por desenvolvimento.
 
 Formado em Tecnologia da Informação, densevolvedor Fullstack.
 
-Desenvolvedor do App "Info Site Tower" com React Native utilizado na automatização de trabalho no setor operário da empresa EQS Engenharia.
+Desenvolvedor do App "Info Site Tower" com React Native utilizado na automatização do trabalho no setor operário da empresa EQS Engenharia.
 
 
