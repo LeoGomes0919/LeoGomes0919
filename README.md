@@ -1,16 +1,14 @@
-### Hi there 👋
+# Leonardo Gomes
 
-<!--
-**LeoGomes0919/LeoGomes0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gestor em Tecnologia da Informação.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Gomes-007bff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-gomes-bb8b6a106/)](https://www.linkedin.com/in/leonardo-gomes-bb8b6a106/) 
+[![Gmail Badge](https://img.shields.io/badge/-leonardogs0919@gmail.com-dd473e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardogs0919@gmail.com)](mailto:leonardogs0919@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado por desenvolvimento.
+
+Formado em Tecnologia da Informação, densevolvedor Fullstack.
+
+Desenvolvedor do App "Info Site Tower" utilizado na automatização de trabalho no setor operário da empresa EQS Engenharia.
+
+
