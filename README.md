@@ -9,6 +9,5 @@ Passionate about development.
 
 Graduated in Information Technology, Fullstack developer.
 
-Developer of the App "Info Site Tower" with React Native used to automate work in the workers' sector of the company EQS Engenharia.
 
 
