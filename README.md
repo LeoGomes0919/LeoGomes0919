@@ -7,9 +7,9 @@ Manager in Information Technology.
 
 Passionate about development.
 
-Senior Software Engineer
-Graduated in Information Technology
-Postgraduate in Software Engineering
+- 💻 Senior Software Engineer
+- 🎓 Graduated in Information Technology
+- 📚 Postgraduate in Software Engineering
 
 
 
