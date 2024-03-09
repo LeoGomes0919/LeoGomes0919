@@ -7,7 +7,9 @@ Manager in Information Technology.
 
 Passionate about development.
 
-Graduated in Information Technology, Fullstack developer.
+Senior Software Engineer
+Graduated in Information Technology
+Postgraduate in Software Engineering
 
 
 
